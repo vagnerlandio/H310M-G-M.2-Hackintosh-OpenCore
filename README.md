@@ -19,3 +19,17 @@ macOS Monterey (H310M-G/M.2 + i3 8100 + iGPU + HDMI)
 
 ## Obs:
 * All acpi patches were compiled from source code. If you have the same motherboard but with a different processor than the i3-8100, I recommend editing the *.dsl files in the ACPI-Sources folder
+
+## Benchmarks
+### Geekbench 5 Score
+#### Device ([score](https://browser.geekbench.com/v5/compute/4336831))
+* OpenCL Score: 4551
+
+#### CPU ([score](https://browser.geekbench.com/v5/cpu/13052754))
+* Single-Core Score: 917
+* Multi-Core Score: 3396
+
+## Post-install recomendations
+* Install [Mos](https://mos.caldis.me/?from=MosApplication&version=3.3.2) for smoth scroll.
+* Install [XtraFinder](https://www.trankynam.com/xtrafinder/) for enhance Finder's functionality.
+* If using the ABNT keyboard pattern, use ANSI instead of ISO.
