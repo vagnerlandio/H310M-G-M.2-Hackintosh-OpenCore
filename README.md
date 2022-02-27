@@ -3,6 +3,7 @@ macOS Monterey (H310M-G/M.2 + i3 8100 + iGPU + HDMI)
 
 ## The Build
 
+| Item | Value
 | --- | ---
 | **CPU** | Intel Core i3-8100 / Coffee Lake
 | **Motherboard** | AsRock H310/G-M.2
