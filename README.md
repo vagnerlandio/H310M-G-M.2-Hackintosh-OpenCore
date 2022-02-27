@@ -17,7 +17,7 @@ macOS Monterey (H310M-G/M.2 + i3 8100 + iGPU + HDMI)
 | **SMBIOS** | iMac19,2
 
 ## What will you find in this project?
-* EFI folder
+* EFI folders (Debug and Release)
 * Tools to help hackintosh.
 * Source codes for acpi paching
 
