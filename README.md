@@ -37,3 +37,4 @@ macOS Monterey (H310M-G/M.2 + i3 8100 + iGPU + HDMI)
 * Install [Mos](https://mos.caldis.me/?from=MosApplication&version=3.3.2) for smoth scroll.
 * Install [XtraFinder](https://www.trankynam.com/xtrafinder/) for enhance Finder's functionality.
 * If using the ABNT keyboard pattern, use ANSI instead of ISO.
+* If you like Windows Explorer shortcuts for rename, delete and open files on Finder, install [Karabiner-Elements](https://karabiner-elements.pqrs.org/) and import [this](https://ke-complex-modifications.pqrs.org/#finder) complex modfication rule.
