@@ -1,5 +1,4 @@
-# H310M-G-M.2-Hackintosh-Monterey
-macOS Monterey (H310M-G/M.2 + i3 8100 + iGPU + HDMI)
+![about this mac](https://raw.githubusercontent.com/vagnerlandio/H310M-G-M.2-Hackintosh-Monterey-OpenCore/master/Images%20/about-this-mac.png "About This Mac Image")
 
 ## The Build
 
